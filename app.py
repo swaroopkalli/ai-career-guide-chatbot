@@ -24,7 +24,7 @@ SYSTEM_INSTRUCTION = """
 """
 
 # --- 2. STREAMLIT INTERFACE SETUP ---
-st.set_page_config(page_title="🤖 AI Career Guide Chatbot")
+st.set_page_config(page_title="🤖 AIVA - AI Visual Assistant", page_icon="🤖")
 st.title("🤖 AI Career Guide Chatbot")
 st.subheader("Your AI Assistant for Career Paths & the Future of Work")
 
