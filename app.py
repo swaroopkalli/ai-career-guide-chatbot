@@ -25,7 +25,7 @@ SYSTEM_INSTRUCTION = """
 
 # --- 2. STREAMLIT INTERFACE SETUP ---
 st.set_page_config(page_title="🤖 AIVA - AI Visual Assistant", page_icon="🤖")
-st.title("🤖 AI Career Guide Chatbot")
+st.title("🤖 AIVA - AI Visual Assistant ")
 st.subheader("Your AI Assistant for Career Paths & the Future of Work")
 
 # Initialize messages list in Streamlit's session_state
